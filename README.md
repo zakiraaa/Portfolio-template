@@ -2,7 +2,7 @@
 Responsive personal portfolio website created using bootstrap-5 and Sass
 
 ## Website Preview
-[Personal Portfolio](https://zakiraaa.github.io/Portfolio-template/)
+[Personal Portfolio](https://mouryasumit0.github.io/Portfolio-template/)
 
 ## Technologies
  Project is created with:
